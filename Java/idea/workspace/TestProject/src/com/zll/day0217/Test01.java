@@ -17,6 +17,7 @@ public class Test01 {
         String name = input.next();
 
         System.out.println(new Date());
+        System.out.println();
 
         int  i = 10;
         System.out.println(Integer.toBinaryString(i));//以字符串的形式输出 i 的二进制数
